@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#0A0A0A</color>
+    <color name="neon_purple">#BF00FF</color>
+    <color name="electric_green">#39FF14</color>
+    <color name="accent_orange">#FF4500</color>
+</resources>
